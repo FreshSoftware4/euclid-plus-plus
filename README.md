@@ -1,6 +1,6 @@
 # Euclid++: Elements of Software
 
-A highly ambitious, yet grounded and pragmatic proposal and initiative aiming to reshape the very nature of software and software development.
+A highly ambitious, yet grounded and pragmatic proposed initiative aiming to reshape the very nature of software and software development.
 
 It started with a simple request to my favorite brainless assistant:
 
